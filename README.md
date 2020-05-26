@@ -1,6 +1,6 @@
-# homehut
+# Learning Flutter
 
-A new Flutter project.
+A new Flutter project for learning.
 
 ## Getting Started
 
